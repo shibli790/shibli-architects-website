@@ -279,8 +279,15 @@ main > section{
 
 .foot{
     text-align: center;
-    margin: 130px 240px 220px 240px;
+    padding: 100px;
     
+
+    
+}
+.footer-tag {
+    /* background-color: #ffa136; */
+    padding: 20px;
+
 }
 
 
@@ -302,6 +309,12 @@ main > section{
 
     #experience-badge{
         margin-top: 20px;
-        margin-left: 20px;
+        margin-left: 50px;
     }
+.footer-tag {
+    background-color: #ffa136;
+
+
+}
+
 }
